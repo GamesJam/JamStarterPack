@@ -1,7 +1,12 @@
-# DefoldCreationKit
-Hi dear Jam participant! Here is a little present from nice developers for you. You'll find Platformer Creation Kit with example platformer game, free art packs and free sound packs here. Enjoy your Jam :)
+# JamStarterPack
+Hi dear Jam participant! Here is a little present from nice developers for you. You'll find links to open sourced games, free art packs and free sound packs here. Enjoy your Jam :)
 
 Download engine here: http://www.defold.com/
+
+## Defold games with open sources
+
+* https://github.com/AJirenius?tab=repositories
+* https://github.com/hxdefold
 
 ## Art Packs
 ### Stormhatt Studios

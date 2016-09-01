@@ -10,16 +10,17 @@ Download engine here: http://www.defold.com/
 
 ## Art Packs
 ### Marcus Lindgren / Stormhatt Studios
-Ancient Ruins by Marcus Lindgren / Stormhatt Studios
-Web: http://stormhattstudios.com/
-Twitter: https://twitter.com/StormhattS
+* Ancient Ruins by Marcus Lindgren / Stormhatt Studios
+* Web: http://stormhattstudios.com/
+* Twitter: https://twitter.com/StormhattS
 
 ![alt text](http://i.imgur.com/hmtwb0E.jpg "Stormhatt Studios atlas")
 
 ### Alien World by Luis Zuno
-Alien World by Luis Zuno
-Web: http://ansimuz.com/
-Twitter: https://twitter.com/ansimuz
+* Alien World by Luis Zuno
+* Web: http://ansimuz.com/
+* Twitter: https://twitter.com/ansimuz
+* 
 ![alt text](http://i.imgur.com/mxdc9oB.png "Alien World atlas")
 
 
